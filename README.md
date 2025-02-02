@@ -59,3 +59,28 @@ To set up the TripVerse application locally, follow these steps:
    npm start
    ```
    
+
+## Preview
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 22 50 PM" src="https://github.com/user-attachments/assets/d062741f-8fbf-4c52-ace5-604b7e8c4421" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 23 16 PM" src="https://github.com/user-attachments/assets/ca7e81fc-e2c9-45a1-8f3c-cc547ed3e707" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 23 28 PM" src="https://github.com/user-attachments/assets/1937f156-6e0e-406a-a436-95a87130d337" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 24 12 PM" src="https://github.com/user-attachments/assets/2ea445b5-180d-4fa6-b3b5-0333f3038c09" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 24 29 PM" src="https://github.com/user-attachments/assets/9d60d5eb-a085-47f3-bb5f-9f31dee20d29" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 24 41 PM" src="https://github.com/user-attachments/assets/a9431e66-4613-4e0c-8001-6d0d20f01f56" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 25 00 PM" src="https://github.com/user-attachments/assets/962066cd-e955-4bcd-9fcd-9b22ce7ba1ee" />
+
+<img width="1498" alt="Screenshot 2025-02-02 at 4 25 15 PM" src="https://github.com/user-attachments/assets/edbe0419-30f9-48d9-9d48-bfe0acf3d8b8" />
+
+
+
+
+
+
+
